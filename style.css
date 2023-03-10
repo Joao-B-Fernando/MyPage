@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+    
+}
+.foto{
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+
+body{
+  background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: 'VT323' , monospace;
+    color: #f3f3f3;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
